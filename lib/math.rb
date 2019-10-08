@@ -3,7 +3,7 @@ def addition(num1, num2)
   puts addition
 end
 
-def subtraction(num1, num2)
+def subtraction(num1=5, num2=4)
   subtraction= num2 - num1
   puts subtraction
 end
